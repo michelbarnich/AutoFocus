@@ -1,0 +1,41 @@
+# Operating system files
+.DS_Store
+
+# Xcode user and local state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Xcode and other build output
+DerivedData/
+.squid-derived-data/
+build/
+Build/
+Products/
+*.app/
+*.dSYM/
+*.dylib
+*.framework/
+*.xctest/
+
+# Generated reverse-engineering workspace data
+ghidra/
+
+# Logs, caches, and temporary files
+*.log
+*.tmp
+tmp/
+.cache/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+*.p12
+*.p8
+*.mobileprovision
+credentials.json
+secrets.json
