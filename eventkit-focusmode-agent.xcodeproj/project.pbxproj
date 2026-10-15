@@ -19,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		7145F306306BB45B00565E60 /* eventkit-focusmode-agent */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "eventkit-focusmode-agent"; sourceTree = BUILT_PRODUCTS_DIR; };
+		71703EC53080EFF700D9578C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		71981438306D4A33000A86F4 /* libdonotdisturbd-patch.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = "libdonotdisturbd-patch.dylib"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71C7241A306FDCE3005E88BA /* eventkit-focusmode-agentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "eventkit-focusmode-agentTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71C72427306FDEEF005E88BA /* AutoFocus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoFocus.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -122,6 +123,7 @@
 				71C72428306FDEEF005E88BA /* FocusModeCalendarController */,
 				7145F307306BB45B00565E60 /* Products */,
 				71EAD28E307D205600995430 /* package */,
+				71703EC53080EFF700D9578C /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
