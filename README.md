@@ -1,7 +1,7 @@
 # AutoFocus
 
 <p align="center">
-  <img src="https://gitlab.athena.michelbarnich.com/uploads/-/system/project/avatar/20/AutoFocus-iOS-Default-128_1x.png?v=1792063674&width=96" width="128" alt="AutoFocus icon">
+  <img src="https://gitlab.athena.michelbarnich.com/uploads/-/system/project/avatar/20/AutoFocus-iOS-Default-128_1x.png?v=1792063674&width=180" width="128" alt="AutoFocus icon">
 </p>
 
 <p align="center">
