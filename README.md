@@ -21,7 +21,7 @@
 AutoFocus connects your macOS calendars to Focus modes. Choose a Focus mode, select the calendars that should activate it, and let the background agent keep the system state in sync as events start, end, or change.
 
 > [!WARNING]
-> AutoFocus integrates with private macOS Do Not Disturb data and relies on the separate [Squid](https://github.com/xanderfrangos/tiny-dnd) project for tweak loading. It is intended for experimentation and personal use. macOS updates may require changes.
+> AutoFocus integrates with private macOS Do Not Disturb data and relies on the separate [Squid](https://github.com/michelbarnich/squid) project for tweak loading. It is intended for experimentation and personal use. macOS updates may require changes.
 
 ## What it does
 
